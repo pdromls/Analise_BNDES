@@ -8,10 +8,14 @@ O objetivo é explorar os contratos de consultoria apoiados pelo BNDES, entenden
 
 ## Estrutura do projeto
 analise_bndes/
-│── base_dados/ # Dados originais (CSV baixado do BNDES)
-│── notebooks/ # Notebooks de exploração e análise
-│── requirements.txt # Dependências (bibliotecas Python)
-│── README.md # Documentação do projeto
+
+│── base_dados/ (Dados originais, CSV baixado do BNDES)
+
+│── notebooks/  (Notebooks de exploração e análise)
+
+│── requirements.txt  (Dependências, bibliotecas Python)
+
+│── README.md  (Documentação do projeto)
 
 ---
 
