@@ -9,7 +9,7 @@ O objetivo é explorar os contratos de consultoria apoiados pelo BNDES, entenden
 ## Estrutura do projeto
 analise_bndes/
 
-│── base_dados/ (Dados originais, CSV baixado do BNDES)
+│── base_dados/ (Dados originais do BNDES e filtragens que realizei)
 
 │── notebooks/  (Notebooks de exploração e análise)
 
@@ -28,6 +28,7 @@ Estou aos poucos atualizando o projeto.
 ## Anotações
 
 Estou adicionando esse campo, para anotar pontos que achei importantes durante o projeto.
+
 Essa base de dados que baixei do BNDES já veio muito bem tratada, foram necessárias poucas alterações, para projetos futuros pretendo lidar com bases não tratadas.
 
 ---
