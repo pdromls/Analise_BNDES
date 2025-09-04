@@ -25,6 +25,13 @@ Estou aos poucos atualizando o projeto.
 
 ---
 
+## Anotações
+
+Estou adicionando esse campo, para anotar pontos que achei importantes durante o projeto.
+Essa base de dados que baixei do BNDES já veio muito bem tratada, foram necessárias poucas alterações, para projetos futuros pretendo lidar com bases não tratadas.
+
+---
+
 ## Como executar
 
 1. Clone este repositório ou baixe os arquivos.
