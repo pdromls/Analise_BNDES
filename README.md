@@ -13,6 +13,8 @@ analise_bndes/
 
 │── notebooks/  (Notebooks de exploração e análise)
 
+│── notebooks_vs/  (Notebooks de visualização)
+
 │── requirements.txt  (Dependências, bibliotecas Python)
 
 │── README.md  (Documentação do projeto)
