@@ -2,7 +2,7 @@
 
 Este projeto analisa os dados públicos do **Banco de Serviços do BNDES**, disponíveis no portal [dados abertos do BNDES](https://dadosabertos.bndes.gov.br/).
 
-O objetivo é explorar os contratos de consultoria apoiados pelo BNDES, entendendo sua distribuição por esfera de cliente (federal, estadual, municipal), valores contratados e evolução temporal.
+O objetivo é fazer um projeto de estudo e treino. Estarei buscando responder perguntas relacionadas à Distribuição por esfera de cliente, Tempo, Empresas/Consórcios, Serviços contratados e Valores.
 
 ---
 
@@ -27,9 +27,9 @@ Estou aos poucos atualizando o projeto.
 
 ## Anotações
 
-Estou adicionando esse campo, para anotar pontos que achei importantes durante o projeto.
-
 Essa base de dados que baixei do BNDES já veio muito bem tratada, foram necessárias poucas alterações, para projetos futuros pretendo lidar com bases não tratadas.
+
+Estarei fazendo um notebook para aquisição dos dados e um para uma visualização mais limpa.
 
 ---
 
