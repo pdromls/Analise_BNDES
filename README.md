@@ -29,6 +29,8 @@ Estou aos poucos atualizando o projeto.
 
 Essa base de dados que baixei do BNDES já veio muito bem tratada, foram necessárias poucas alterações, para projetos futuros pretendo lidar com bases não tratadas.
 
+A base de dados original do BNDES está sendo constantemente atualizada.
+
 Estarei fazendo um notebook para aquisição dos dados e um para uma visualização mais limpa.
 
 ---
