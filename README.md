@@ -21,7 +21,7 @@ analise_bndes/
 
 ---
 
-## Projeto em andamento
+## Projeto em revisão
 
 Estou aos poucos atualizando o projeto.
 
