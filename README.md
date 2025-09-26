@@ -15,15 +15,17 @@ analise_bndes/
 
 │── notebooks_vs/  (Notebooks de visualização)
 
+│── relatorio/  (relatorio de conclusao)
+
 │── requirements.txt  (Dependências, bibliotecas Python)
 
 │── README.md  (Documentação do projeto)
 
 ---
 
-## Projeto em revisão
+## Projeto finalizado
 
-Estou aos poucos atualizando o projeto.
+Caso encontre algum erro irei corrigir.
 
 ---
 
