@@ -15,7 +15,7 @@ analise_bndes/
 
 │── notebooks_vs/  (Notebooks de visualização)
 
-│── relatorio/  (relatorio de conclusao)
+│── relatorio/  (Relatório de conclusao)
 
 │── requirements.txt  (Dependências, bibliotecas Python)
 
